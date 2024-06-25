@@ -3,8 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-breadcrumbs',
   templateUrl: './breadcrumbs.component.html',
-  styles: ``,
-  standalone: true
+  styles: ``
 })
 export class BreadcrumbsComponent implements OnInit {
 
